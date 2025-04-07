@@ -1,0 +1,10 @@
+{
+    "var_dict": {
+        "src": "source/Online Sales Data.csv",
+        "dest": "output/json pipeline ouput.csv",
+        "plots": "plots/json_viz_output.png",
+        "dconv": {},
+        "cnames": {},
+        "viz": "line"
+    }
+}

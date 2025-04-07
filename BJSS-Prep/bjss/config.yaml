@@ -1,0 +1,9 @@
+var_dict:
+  {
+    "src": "source/Online Sales Data.csv",
+    "dest": "output/yaml pipeline ouput.csv",
+    "plots": "plots/yaml_viz_output.png",
+    "dconv": { "Product Category": "str", "Product Name": "str" },
+    "cnames": { "Product Category": "Prod Cat", "Product Name": "Prod Name" },
+    "viz": "line",
+  }
