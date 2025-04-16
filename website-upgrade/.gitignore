@@ -29,9 +29,6 @@ yarn-error.log*
 # Tailwind CSS build folder
 /public/css/
 
-# npm lock file (if using Yarn, replace with yarn.lock)
-package-lock.json
-
 # TypeScript build
 *.tsbuildinfo
 
